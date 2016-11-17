@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Miwok</string>
     <string name="category_colors">Kleur</string>
-    <string name="category_family">Gesinslede</string>
+    <string name="category_family">Familielede</string>
     <string name="category_numbers">Getalle</string>
     <string name="category_phrases">Frases</string>
     <string name="language_setting">Taal opsies</string>
