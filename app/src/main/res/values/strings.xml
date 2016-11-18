@@ -28,6 +28,7 @@
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
     <string name="language_setting">language settings</string>
+
     <string name="One">One</string>
     <string name="Two">Two</string>
     <string name="Three">Three</string>
@@ -38,6 +39,7 @@
     <string name="Eight">Eight</string>
     <string name="Nine">Nine</string>
     <string name="Ten">Ten</string>
+
     <string name="Mother">mother</string>
     <string name="Father">Father</string>
     <string name="Grandmother">Grandmother</string>
@@ -48,16 +50,18 @@
     <string name="Uncle">Uncle</string>
     <string name="Sister">sister</string>
     <string name="Brother">Brother</string>
+
     <string name="Red">Red</string>
     <string name="Yellow">Yellow</string>
     <string name="Green">Green</string>
     <string name="Blue">Blue</string>
     <string name="Black">Black</string>
-    <string name="White">Shweu,White</string>
+    <string name="White">White</string>
     <string name="Brown">Brown</string>
     <string name="Orange">Orange</string>
     <string name="Gold">Gold</string>
     <string name="Silver">Silver</string>
+
     <string name="name">My name is</string>
     <string name="hello">Hello</string>
     <string name="Time"> what time is it</string>

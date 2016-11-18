@@ -41,7 +41,7 @@ public class ColorsActivity extends AppCompatActivity {
         words.add(new Word(getResources().getString(R.string.Green),"Talamorogo",R.drawable.green));
         words.add(new Word(getResources().getString(R.string.Blue),"Talalerata",R.drawable.blue));
         words.add(new Word(getResources().getString(R.string.Brown),"Tshehla",R.drawable.color_brown));
-        words.add(new Word(getResources().getString(R.string.Yellow),"Lefodi",R.drawable.yellow));
+        words.add(new Word(getResources().getString(R.string.Yellow),"Serolwane",R.drawable.yellow));
         words.add(new Word(getResources().getString(R.string.Black),"Ntsho",R.drawable.black));
         words.add(new Word(getResources().getString(R.string.White),"Shweu",R.drawable.white));
         words.add(new Word(getResources().getString(R.string.Gold),"Gauta",R.drawable.gold));
